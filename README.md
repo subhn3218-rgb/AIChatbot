@@ -58,7 +58,7 @@
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 <p align="center">
   <b>Sole Developer:</b><br />
